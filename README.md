@@ -5,14 +5,8 @@
 
 ## Tech Stack
 - HTML5
-- CSS3 (Flexbox, Grid, CSS Nesting, `clamp()`)
-- JavaScript (ปุ่ม scroll to top)
-
-## Features
-- Responsive รองรับตั้งแต่ 320px ถึงจอเดสก์ท็อป
-- Grid สินค้า New Arrivals / Top Selling
-- ปุ่ม Go to top แสดงเมื่อเลื่อนลง
-
+- CSS
+- JavaScript
 
 ## Credits 📌
-Design by [ชื่อผู้ออกแบบ](ลิงก์ Figma) – ใช้เพื่อการศึกษาเท่านั้น
+Design by [https://www.figma.com/design/tSMqFBJLaeqIKVQJcZ0qf5/E-commerce-Website-Template--Freebie---Community-?node-id=24-804&t=aiiI2a2k0y5OOjqX-0] – ใช้เพื่อการศึกษาเท่านั้น
