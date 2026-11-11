@@ -2,6 +2,8 @@
 
 หน้า landing page ของร้านเสื้อผ้า โคลนจาก design ใน Figma เพื่อฝึกเขียน HTML/CSS ให้ตรงกับแบบ และทำ responsive
 
+🧷[Live Demo](https://2boycats.github.io/shopco-ui-clone/)
+
 ## 🛠 Tech Stack
 - HTML5
 - CSS
